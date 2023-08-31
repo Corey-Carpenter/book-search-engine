@@ -4,4 +4,4 @@
 
 ## To use simply open the deployed application on heroku. Then you can start searching books. If you want to save them you need to register or login on the top right-hand corner. It's a very intuitive app with a polished UI.
 
-![Screenshot of Application](bbok-search.png)
+![Screenshot of Application](book-search.png)
